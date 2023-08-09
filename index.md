@@ -9,8 +9,8 @@ Jordi Isern Fontanet (Banyoles 1975, Catalonia) graduated in Physics at Universi
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- The multifractal theory of turbulence (DEMON project)
+- Parametrization of energy dissipation in ocean models (DEMON project)
+- Connectivity of fish larvae (DEMON project)
+- Validation tools of ocean models (DEMON project)
+- Exploitation of High-Frequency radars (ICATMAR)
