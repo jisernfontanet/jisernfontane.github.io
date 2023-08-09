@@ -14,3 +14,4 @@ Jordi Isern Fontanet (Banyoles 1975, Catalonia) graduated in Physics at Universi
 - Connectivity of fish larvae (DEMON project)
 - Validation tools of ocean models (DEMON project)
 - Exploitation of High-Frequency radars (ICATMAR)
+  
