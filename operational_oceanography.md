@@ -1,6 +1,6 @@
 ---
 layout: post-index
 title: All Blog Posts
-menutitle: Blog
+menutitle: Operational Oceanography
 menuorder: 6
 ---
