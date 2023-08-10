@@ -2,5 +2,5 @@
 layout: post-index
 title: Research
 menutitle: Research
-menuorder: 4
+menuorder: 2
 ---
