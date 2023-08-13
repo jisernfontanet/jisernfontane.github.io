@@ -5,24 +5,35 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Resarcher at the Institut de Ciències del Mar (CSIC), Barcelona
+
+Head of Oprational Oceanography at the Institut Català per a la Governança del Mar, Barcelona
+
+Member of the Board of Directors of the Institut Català per a la Governança del Mar, Barcelona
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2003`
+__Universitat Politècnica e catalunya__
+Doctor in Applied Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1998`
+__Universitat de Barcelona__
+Graduated in Physics  
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2018` __Científico Titular__, CSIC
 
-## Publications
+`2015` __ComFuturo Fellow__, Fundación General CSIC
+
+`2008` __Ramón y Cajal Fellow__, Ministerio de Educación y Ciencia
+
+`2006` __Marie Curie Intra-European Fellowship__, European Union
+
+`2005` __Postodctoral Fellowship__, Ministerio de Educación y Ciencia
+
+## Selected Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
