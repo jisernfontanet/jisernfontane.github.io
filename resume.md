@@ -14,7 +14,7 @@ Member of the Board of Directors of the Institut Català per a la Governança de
 ## Education
 
 `2003`
-__Universitat Politècnica e catalunya__
+__Universitat Politècnica de catalunya__
 Doctor in Applied Physics
 
 `1998`
@@ -63,7 +63,19 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Researcher__, Institut de Ciencies del Mar (CSIC) 
+
+- Task
+- Task
+
+`Current`
+__Head of Oprational Oceanography__, Institut Català per a la Governança del Mar 
+
+- Task
+- Task
+
+`Current`
+__Member of the Board of Directors__, Institut Català per a la Governança del Mar 
 
 - Task
 - Task
