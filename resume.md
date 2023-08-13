@@ -5,11 +5,7 @@ menutitle: Resume
 ---
 ## Currently
 
-Resarcher at the Institut de Ciències del Mar (CSIC), Barcelona
-
-Head of Oprational Oceanography at the Institut Català per a la Governança del Mar, Barcelona
-
-Member of the Board of Directors of the Institut Català per a la Governança del Mar, Barcelona
+I am researcher at the Institut de Ciències del Mar (CSIC), Barcelona. I am also the Head of Oprational Oceanography and Member of the Board of Directors at the Institut Català per a la Governança del Mar, Barcelonna
 
 ## Education
 
