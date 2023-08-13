@@ -52,8 +52,8 @@ Book Title, Journal Title
 
 ## Selected Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2023`
+__The multifractal theory of turbulence, a framework to investigate the ocean__, Brest Workshop on Environmental Physics and Signal Processing 2023, <a href="https://epsp2023.sciencesconf.org/">Link to Presentation</a>
 
 
 ## Occupation
