@@ -17,7 +17,7 @@ Doctor in Applied Physics
 __Universitat de Barcelona__
 Graduated in Physics  
 
-## Awards
+## Awards and Grants
 
 `2018` __Científico Titular__, CSIC
 
@@ -50,7 +50,7 @@ Book Title, Journal Title
 Book Title, Journal Title
 
 
-## Presentations
+## Selected Presentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
