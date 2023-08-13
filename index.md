@@ -9,5 +9,6 @@ My main interests are the understanding of ocean turbulence and its role in Eart
 
 <center>
 <b>My institutions </b>
-<img src="images/icatmar_marca_horit.png" width="40"><img src="images/Logo-ICM.png" width="40">
+<img src="images/icatmar_marca_horit.png" width="150"><img src="images/Logo-ICM.png" width="150">
 </center>
+
